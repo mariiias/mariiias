@@ -48,11 +48,4 @@ I am particularly interested in **network security**, **systems administration**
 
 ---
 
-## GitHub Highlights
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariiias&show_icons=true&theme=default)](https://github.com/mariiias)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiias&layout=compact&theme=default)](https://github.com/mariiias)
-
----
-
 *This profile reflects my continuous learning journey and my commitment to building secure, intelligent systems that serve real-world needs.*
